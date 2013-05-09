@@ -6,3 +6,6 @@ Top Things We Want to Learn
 * James Mester: Python 2D deconvolution
 
 * Eve Lake: Preclinical MRA
+
+* Perry: cardiac stuff
+
